@@ -1,5 +1,3 @@
-r3600-raw-img.bin
-orig-firmwares/*.bin
 ubifs-root/
 *+SSH.zip
 *+SSH+MI.zip
